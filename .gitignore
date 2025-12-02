@@ -1,0 +1,70 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+config.yaml
+.git-rewrite
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+.idea
+*.sh
+CLAUDE.md
+.claude
+nul
+
+# Playwright
+.playwright/
+ms-playwright/
+playwright-*
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+### VS Code ###
+.vscode/
+data.json
+src/main/java/boss/data.json
+merge_prs.log
+README-FORME.md
+.github/
+.history/
+### Maven ###
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### macOS ###
+.DS_Store
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+### macOS & Windows ###
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+*.tmp
+### Mac OS ###
+.DS_Store
+cookie.json
+.env
+chromedriver
+*.jpg
