@@ -38,7 +38,7 @@ public class Lagou {
     static Integer page = 1;
     static Integer maxPage = 4;
     static String homeUrl = "https://www.lagou.com?";
-    static String wechatUrl = "https://open.weixin.qq.com/connect/qrconnect?appid=wx9d8d3686b76baff8&redirect_uri=https%3A%2F%2Fpassport.lagou.com%2Foauth20%2Fcallback_weixinProvider.html&response_type=code&scope=snsapi_login#wechat_redirect";
+    static String wechatUrl = "https://open.weixin.qq.com/connect/qrconnect?appid=xxxxxxxxxx&redirect_uri=https%3A%2F%2Fpassport.lagou.com%2Foauth20%2Fcallback_weixinProvider.html&response_type=code&scope=snsapi_login#wechat_redirect";
     static int oneKeyMaxJob = 20;
     static int currentKeyJobNum = 0;
     static int jobCount = 0;
